@@ -1,7 +1,4 @@
-# SMPP
-Sustainable Mobile Power Pack
-
-## Powering a Brighter Future: 
+# Powering a Brighter Future: 
 Sustainable Mobile Power Pack (SMPP)
 
 ## Our Vision
