@@ -1,3 +1,4 @@
+![SMPP Logo](https://github.com/abtzpro/SMPP/blob/main/DB18A5AB-65E0-4B1D-B87E-B77B7BFFD8BF.png)
 # Powering a Brighter Future: 
 Sustainable Mobile Power Pack (SMPP)
 
