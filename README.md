@@ -105,3 +105,13 @@ The SMPP is designed to power a range of common devices, such as smartphones, la
 The pack is designed to provide an output of 325 watt-hours, allowing the storage of enough energy to charge an average laptop 4-6 times over, providing a significant amount of power for on-the-go use.
 
 In essence, the SMPP serves as a portable, reliable, and sustainable power source for anyone who needs it, whether they're in an urban setting, in a remote area without reliable electricity, or simply on the go.
+
+## Interested in learning more about the SMPP? 
+Well that's fantastic because we are eager to hear from you! You can reach us at https://hellosecurityllc.github.io 
+
+
+## Who we are
+Here at Hello Security LLC, We are not just a cybersecurity company and SaaS development agency, we are caring and concerned inventors and devlopers who truly want our work to help potentially better the world. 
+
+# Who created SMPP?
+The idea of SMPP was invented by Hello Security LLC CEO Adam Rivers after work one day when he thought back to a time in his life when he too, found himself displaced, without a home or electricity. Adam hopes the SMPP backpack will provide people whom find themselves in a similar situation, the hope and light in the darkness so desperately required during tough times. He has adamantly fought to keep the production cost as low as physically possible and says he intends to keep it that way. He came up with the promotion model in order to shed a little light within disparraged communities whilst also bolstering growth and improvements of the product. 
